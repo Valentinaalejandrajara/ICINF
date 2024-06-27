@@ -1,6 +1,6 @@
 lista = []
 
-for x in range(3):
+for x in range(10):
     precios = float(input("Ingresa el precio del producto en dólares: "))
     lista.append(precios)
 
